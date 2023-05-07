@@ -1,5 +1,5 @@
 {
-  "name": "foundationapp/discussions",
+  "name": "kikter/discussions",
   "description": "Discussions is a Simple Laravel Discussions Package",
   "autoload": {
     "psr-4": {
@@ -13,8 +13,8 @@
   },
   "authors": [
     {
-      "name": "Bobby Iliev",
-      "email": "bobby@bobbyiliev.com"
+      "name": "kikter",
+      "email": "kikismedia@gmail.com"
     }
   ],
   "extra": {
